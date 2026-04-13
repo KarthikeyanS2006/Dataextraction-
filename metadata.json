@@ -1,0 +1,5 @@
+{
+  "name": "Longinsent Pro",
+  "description": "AI-powered data ingestion tool for Indian competitive exam response sheets. Converts raw text into structured JSON with English and Tanglish explanations.",
+  "requestFramePermissions": []
+}
